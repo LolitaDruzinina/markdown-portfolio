@@ -1,2 +1,2 @@
 [My Linkedin profile](https://www.linkedin.com/in/lolitadr/)
-[GitHub](http://github.com)
+[My GitHub](https://github.com/LolitaDruzinina)
