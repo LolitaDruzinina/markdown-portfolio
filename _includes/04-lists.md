@@ -1,1 +1,5 @@
-Replace this with a list of your favorite things.
+* Yoga
+* Sauna
+* Traveling
+  * Nature
+  * Museums
